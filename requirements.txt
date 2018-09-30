@@ -8,4 +8,3 @@ pyTelegramBotAPI==3.6.6
 requests==2.19.1
 six==1.11.0
 urllib3==1.23
-
